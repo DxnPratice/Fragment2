@@ -1,0 +1,7 @@
+1,使用单纯的TabLayout和ViewPager的时候，布局文件应该设置为线性布局，不然TabLayout中添加的标签无法显示出来
+1.1，设置活动无ACTIONBAR的时候，就会直接显示TabLayout和ViewPager的Fragment
+（参考TestActivity和它的布局文件)
+1.2,设置活动有ACTIONBAR的时候，就显示ACTIONBAR和TabLayout和ViewPager的Fragment，即使设置ACTIONBAR的背景色和TabLayout的背景色一致，中间还是会显示一条阴影线
+（参考TestActivity和它的布局文件)
+1.3.所以很多时候用TOOLBAR代替ACTIONBAR；（参考NextActivity和它的布局文件）
+2,几个布局文件中的各个组件的属性参考MainActivity的注释；

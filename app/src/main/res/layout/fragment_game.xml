@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_light"
+    tools:context="com.example.windows.fragment.GameFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <EditText
+        android:layout_width="383dp"
+        android:layout_height="match_parent"
+        android:id="@+id/editText"
+        android:background="@null"
+        android:layout_gravity="center_horizontal|top"
+        android:text="             网络游戏的发展现状与前景
+    2014年07月09日   来源973  游戏我要评论
+    随着中国互联网络游戏产业的出现和发展，游戏行业这些年来也不断的变化更新中。网络游戏这个产业从初步发展到现在的蓬勃发展，这都归结于网络游戏行业资金得到迅速聚集，高利润使得许多竞争者大量研发新型、大型网络游戏，以及用户的成倍增长这些因素共同促进而成。
+    我国网络游戏行业迅速发展兴盛，现如今已经形成游戏开发商到运营商，到渠道商，再到电信运营，最后到网络玩家一条层次分明的网络游戏产业链。随着我国网络游戏产业的不断发展，网络游戏技术革新，研发属于自己国家的大型高端的网页游戏，这不仅提高国产游戏的影响力，使国家自主原创网络游戏占据中国游戏市场的主导地位。，也是促进我国网络游戏行业更加繁荣发展的必要条件。
+网络游戏能是一个集大量玩家于一个平台上的虚拟交流平台，让大家在这个平台上能够充分展现自己证明自己.  "/>
+
+</FrameLayout>

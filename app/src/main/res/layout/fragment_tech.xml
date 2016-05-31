@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_red_light"
+    tools:context="com.example.windows.fragment.TechFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <EditText
+        android:layout_width="383dp"
+        android:layout_height="match_parent"
+        android:background="@null"
+        android:id="@+id/editText"
+        android:layout_gravity="center_horizontal|top"
+        android:text="     不管人们有没有意识到，科学技术已经深深的影响着我们的日常生活，在经济社会发展扮演着不可或缺的角色。21世纪以来，科学技术，尤其是计算机网络技术、电子信息技术的飞速发展，使得手机、电脑那些昂贵的奢侈品步入寻常百姓家，成为我们生活的必需品。想象一下，如果没有手机，我们如何随心所欲地与亲人保持联系呢；如果没有网络，我们又如何与远在异国他乡的朋友谈天论地；如果没有高清晰的电视技术，我们又如何享受华丽的好莱坞电影？当然，我们也必须承认，科学技术在一定程度上也改变着我们的生活方式，改变着我们的文化。
+
+ 正是因为科学技术具有如此的重要性，我们的国家领导人也在多种场合提出大力发展科学技术。我国在改革开放以后取得了很大地进步，步入了科技强国之林。"/>
+</FrameLayout>

@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_green_dark"
+    tools:context="com.example.windows.fragment.NewsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <EditText
+        android:layout_width="383dp"
+        android:layout_height="match_parent"
+        android:id="@+id/editText"
+        android:background="@null"
+        android:layout_gravity="center_horizontal|top"
+        android:text="      新闻报道涉及各行各业，许多新闻是通过交流信息来传播各种知识的，它包括政治、经济、管理、科学技术、教育、法律、文艺等方方面面的知识，只有满足不同层次读者的需要，才能推动整个社会人民科学文化水平的提高。
+
+　　新闻媒体每天刊发、播放大量的新闻，其社会作用是十分广泛而重要的。新闻报道搞得好，就能起到好作用，推动社会前进；搞得不好，就会帮倒忙，起坏的作用，阻碍社会的发展。所以，记者在采写、编发、播放每一条新闻的时候，哪怕是一条只有几十字、上百字的文字新闻，或者只有几十秒的电视新闻，都要认真考虑它的社会作用。做到有利于安定团结，有利于改革开放，有利于调动广大人民群众的积极性和创造性，使之成为搞好各项工作有力的推进器。
+" />
+</FrameLayout>
